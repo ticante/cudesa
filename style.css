@@ -93,6 +93,10 @@ nav li:first-child a{
 .sidebar a{
   width: 100%;
 }
+.hideMenu a{
+  display: flex;
+  justify-content: flex-end;
+}
 .menu-button{
   display: none;
 }
